@@ -257,6 +257,7 @@ algorithms, knowledgebase and AI technology.
 *Search for data located on PDFs, Word documents, presentation slides, and more.*
 
 * [DocumentCloud](https://www.documentcloud.org) - Platform for analyzing, annotating, and publishing documents.
+* [Epstein Exposed](https://epsteinexposed.com) - Comprehensive searchable database of 2M+ DOJ Epstein case documents, 1,700+ persons, flight logs, emails, and network graph visualization.
 * [Find-pdf-doc](http://www.findpdfdoc.com)
 * [Free Full PDF](http://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
