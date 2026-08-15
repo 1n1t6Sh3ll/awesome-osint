@@ -1600,6 +1600,7 @@ algorithms, knowledgebase and AI technology.
 * [Mailbox](https://mailbox.org)
 * [Mailvelope](https://www.mailvelope.com)
 * [Master Password](https://masterpasswordapp.com)
+* [MetaClean](https://github.com/Moresyl/metaclean) - Cross-platform desktop app for removing sensitive metadata from files locally before sharing them during OSINT investigations.
 * [Nixory](https://nixory.sourceforge.net)
 * [NoScript](https://noscript.net)
 * [Open DNS](https://www.opendns.com/home-internet-security)
