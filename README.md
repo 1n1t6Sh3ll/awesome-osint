@@ -876,6 +876,7 @@ algorithms, knowledgebase and AI technology.
 * [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [Vault](https://www.vault.com) - Well-known ranking of largest United States Corporations.
+* [WhiteIntel](https://whiteintel.dev) - Free corporate and offshore ownership graph: trace a company to its beneficial owners across 31 public registries (Companies House, GLEIF, ICIJ Offshore Leaks, OpenSanctions, SEC EDGAR), with sanctions screening and fully cited dossiers. Queryable by AI agents over MCP.
 * [Xing](https://www.xing.com)
 * [YouControl](https://youcontrol.com.ua/en/)
 
